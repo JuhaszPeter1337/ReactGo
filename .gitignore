@@ -18,6 +18,7 @@ vendor/
 # Compiled binary files
 *.exe
 *.out
+*.sum
 
 # macOS specific files
 .DS_Store
